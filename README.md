@@ -1,6 +1,6 @@
 # Stranica-El-Confidencial
 
-A news web aplication.
+A news web application.
 Web application that fetches articles by category from database.
 
 Regular user can view and read all articles.
