@@ -1,0 +1,62 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    font-family: "Imbue", serif !important;
+    font-weight: 200;
+    font-style: normal;
+}
+
+.title_text{
+   padding-top: 2%;
+    text-align: center;
+    font-size: larger;
+}
+
+.navigation_text{
+    text-align: center;
+    font-size: larger;
+    border-bottom: 1px solid black;
+}
+.navigation_text a{
+    text-decoration: none;
+    color: black;
+}
+#news_text{
+    width: 80%;
+    text-align: justify;
+}
+#first_row_news{
+    border-bottom: 1px solid black;
+    padding-bottom: 2%;
+}
+#second_row_news{
+    border-bottom: 1px solid gray;
+    padding-bottom: 2%;
+}
+#footer_text{
+    padding-top: 5%;
+}
+
+#sport_row{
+    border-bottom: 1px solid black;
+    padding-bottom: 2%;
+}
+#form_class{
+    align-items: center;
+    text-align: center;
+    display: flex;
+    justify-content: space-evenly
+}
+.category_php_words p{
+    text-transform: capitalize;
+}
+
+#second_section_title h2{
+    text-transform:uppercase;
+}
+#slika_skripte img{
+    width: 50% ;
+}
